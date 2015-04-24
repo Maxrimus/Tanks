@@ -1,0 +1,24 @@
+c:\users\joe\documents\visual studio 2012\Projects\Milestone 4\Milestone 4\bin\Debug\Milestone 4.exe.config
+C:\Users\Joe\Documents\Visual Studio 2012\Projects\GDAPS 2\Milestone 4\Milestone 4\bin\Debug\Milestone 4.exe.config
+C:\Users\Joe\Documents\Visual Studio 2012\Projects\GDAPS 2\Milestone 4\Milestone 4\bin\Debug\Milestone 4.exe
+C:\Users\Joe\Documents\Visual Studio 2012\Projects\GDAPS 2\Milestone 4\Milestone 4\bin\Debug\Milestone 4.pdb
+C:\Users\Joe\Documents\Visual Studio 2012\Projects\GDAPS 2\Milestone 4\Milestone 4\obj\Debug\Milestone 4.csprojResolveAssemblyReference.cache
+C:\Users\Joe\Documents\Visual Studio 2012\Projects\GDAPS 2\Milestone 4\Milestone 4\obj\Debug\Milestone_4.GameForm.resources
+C:\Users\Joe\Documents\Visual Studio 2012\Projects\GDAPS 2\Milestone 4\Milestone 4\obj\Debug\Milestone_4.InfoForm.resources
+C:\Users\Joe\Documents\Visual Studio 2012\Projects\GDAPS 2\Milestone 4\Milestone 4\obj\Debug\Milestone_4.Properties.Resources.resources
+C:\Users\Joe\Documents\Visual Studio 2012\Projects\GDAPS 2\Milestone 4\Milestone 4\obj\Debug\Milestone 4.csproj.GenerateResource.Cache
+C:\Users\Joe\Documents\Visual Studio 2012\Projects\GDAPS 2\Milestone 4\Milestone 4\obj\Debug\Milestone 4.exe
+C:\Users\Joe\Documents\Visual Studio 2012\Projects\GDAPS 2\Milestone 4\Milestone 4\obj\Debug\Milestone 4.pdb
+\\banner.main.ad.rit.edu\students\jpt6083\IGMProfile\Documents\Visual Studio 2012\Projects\Milestone 4\Milestone 4\Milestone 4\bin\Debug\Milestone 4.exe.config
+\\banner.main.ad.rit.edu\students\jpt6083\IGMProfile\Documents\Visual Studio 2012\Projects\Milestone 4\Milestone 4\Milestone 4\obj\Debug\Milestone 4.exe
+\\banner.main.ad.rit.edu\students\jpt6083\IGMProfile\Documents\Visual Studio 2012\Projects\Milestone 4\Milestone 4\Milestone 4\obj\Debug\Milestone 4.pdb
+\\banner.main.ad.rit.edu\students\jpt6083\IGMProfile\Documents\Visual Studio 2012\Projects\Milestone 4\Milestone 4\Milestone 4\bin\Debug\Milestone 4.exe
+\\banner.main.ad.rit.edu\students\jpt6083\IGMProfile\Documents\Visual Studio 2012\Projects\Milestone 4\Milestone 4\Milestone 4\bin\Debug\Milestone 4.pdb
+\\banner.main.ad.rit.edu\students\jpt6083\IGMProfile\Documents\Visual Studio 2012\Projects\Milestone 4\Milestone 4\Milestone 4\obj\Debug\Milestone 4.csprojResolveAssemblyReference.cache
+\\banner.main.ad.rit.edu\students\jpt6083\IGMProfile\Documents\Visual Studio 2012\Projects\Milestone 4\Milestone 4\Milestone 4\obj\Debug\Milestone_4.GameForm.resources
+\\banner.main.ad.rit.edu\students\jpt6083\IGMProfile\Documents\Visual Studio 2012\Projects\Milestone 4\Milestone 4\Milestone 4\obj\Debug\Milestone_4.InfoForm.resources
+\\banner.main.ad.rit.edu\students\jpt6083\IGMProfile\Documents\Visual Studio 2012\Projects\Milestone 4\Milestone 4\Milestone 4\obj\Debug\Milestone_4.Properties.Resources.resources
+\\banner.main.ad.rit.edu\students\jpt6083\IGMProfile\Documents\Visual Studio 2012\Projects\Milestone 4\Milestone 4\Milestone 4\obj\Debug\Milestone 4.csproj.GenerateResource.Cache
+\\banner.main.ad.rit.edu\students\jpt6083\IGMProfile\Documents\Milestone 4\Milestone 4\Milestone 4\bin\Debug\Milestone 4.exe.config
+\\banner.main.ad.rit.edu\students\jpt6083\IGMProfile\Documents\Milestone 4\Milestone 4\Milestone 4\obj\Debug\Milestone 4.exe
+\\banner.main.ad.rit.edu\students\jpt6083\IGMProfile\Documents\Milestone 4\Milestone 4\Milestone 4\obj\Debug\Milestone 4.pdb

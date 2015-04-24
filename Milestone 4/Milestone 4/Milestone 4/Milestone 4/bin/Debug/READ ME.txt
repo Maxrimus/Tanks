@@ -1,0 +1,6 @@
+WASD to control tank number 1
+F to fire tank number 1
+IJKL to control tank number 2
+H to fire tank number 2
+Names can be anything, just be sure to enter them
+The Map file MUST be "Map.txt" without the quotes
